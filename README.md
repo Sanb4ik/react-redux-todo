@@ -1,4 +1,4 @@
-# Build TODO App with Redux and React JS
+# Build TODO App with Redux and React JS for NOVOSOFT 
 
 This repository contains code for Todo app with react-redux.
 
